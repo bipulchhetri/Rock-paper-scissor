@@ -10,7 +10,7 @@ body {
   background-color: #8cc461;
 }
 
-.parent-container {
+.main-container {
   width: 100%;
   height: 100vh;
   display: flex;
